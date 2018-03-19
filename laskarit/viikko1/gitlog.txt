@@ -1,0 +1,89 @@
+commit 608f8dda8f7a97203852f81bce1bfe3619041f3b
+Author: Tuomas Koukkari <tuomas.koukkari@helsinki.fi>
+Date:   Mon Mar 19 02:00:56 2018 +0200
+
+    tiedostoja taas
+
+ tiedostoja/file1  | 0
+ tiedostoja/file2  | 0
+ tiedostoja/file22 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit fbffb4f7e6cde6975e5578416a7d26e75d0bf2bd
+Author: Tuomas Koukkari <tuomas.koukkari@helsinki.fi>
+Date:   Mon Mar 19 01:55:45 2018 +0200
+
+    tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 3e014f7f540f133e13492597582119b4d20eb503
+Author: Tuomas Koukkari <tuomas.koukkari@helsinki.fi>
+Date:   Mon Mar 19 01:46:55 2018 +0200
+
+    qui dolorem ipsum quia dolor sit amet
+
+ eka.txt    | 3 ++-
+ kolmas.txt | 6 +++++-
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+
+commit 0c1262c9629ba67dc5b17152003dc539a5e12134
+Author: Tuomas Koukkari <tuomas.koukkari@helsinki.fi>
+Date:   Mon Mar 19 01:33:43 2018 +0200
+
+    muutos
+
+ eka.txt      | 1 +
+ tiedosto.txt | 1 -
+ toinen.txt   | 1 -
+ 3 files changed, 1 insertion(+), 2 deletions(-)
+
+commit bb67b75cf2cdd9e68a512e14255383e5c1fee8ff
+Author: Tuomas Koukkari <tuomas.koukkari@helsinki.fi>
+Date:   Mon Mar 19 01:31:18 2018 +0200
+
+    stuff
+
+ stuff/jokintiedosto | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ef518de7a2aa51b18df4c683e4882574e692477f
+Author: Tuomas Koukkari <tuomas.koukkari@helsinki.fi>
+Date:   Mon Mar 19 01:29:51 2018 +0200
+
+    muutos ja lisäys
+
+ toinen.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 2da7eb6f64e57c4c13c118185bc5fc7375583bc5
+Author: Tuomas Koukkari <tuomas.koukkari@helsinki.fi>
+Date:   Mon Mar 19 01:29:31 2018 +0200
+
+    muutos ja lisäys
+
+ kolmas.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 3cd5c25fe5cfcf5c4fa3df65dac3f01ae65d8b7b
+Author: Tuomas Koukkari <tuomas.koukkari@helsinki.fi>
+Date:   Mon Mar 19 01:26:34 2018 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 2e46f96b92fdac1cec06dcd464fef183bb1b6d90
+Author: Tuomas Koukkari <tuomas.koukkari@helsinki.fi>
+Date:   Mon Mar 19 01:24:12 2018 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
