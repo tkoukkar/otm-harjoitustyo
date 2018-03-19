@@ -4,4 +4,5 @@
 
 ### Viikko1
 
-tavallista tekstiä, joka sisältää **lihavoituja** ja *kursivoituja* osuuksia
+[komentorivi.txt](https://github.com/tkoukkar/otm-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+[gitlog.txt](https://github.com/tkoukkar/otm-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
